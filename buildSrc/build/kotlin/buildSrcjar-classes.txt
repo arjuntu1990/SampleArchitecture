@@ -1,0 +1,1 @@
+C:\Android\StudioProjects\arjun\SampleArchitecture\buildSrc\build\classes\kotlin\main\Dependencies.class;C:\Android\StudioProjects\arjun\SampleArchitecture\buildSrc\build\classes\kotlin\main\DependencyVersions.class
